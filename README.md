@@ -1,4 +1,4 @@
-#CSCI-B551 Elements of Artificial Intelligence
+# CSCI-B551 Elements of Artificial Intelligence
 
 Instructor: David Crandall
 
